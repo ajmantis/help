@@ -21,3 +21,4 @@ $response->send();
 
 $kernel->terminate($request, $response);
 //TEST
+//TEST 2.0
